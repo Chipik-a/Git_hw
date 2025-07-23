@@ -1,0 +1,4 @@
+name: Anna Popelniukh
+age: 37
+Pets: 0
+Salary:  3000
