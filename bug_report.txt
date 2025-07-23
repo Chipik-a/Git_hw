@@ -1,1 +1,14 @@
+Title: [BUG] Login button does not respond
 
+Steps to reproduce:
+1. Open the login page
+2. Enter valid username and password
+3. Click the "Login" button
+
+Expected result:
+User is redirected to the dashboard
+
+Actual result:
+Nothing happens. No error message.
+
+Severity: High
