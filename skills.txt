@@ -1,0 +1,25 @@
+Test automation fundamentals
+
+Git and GitHub
+
+JavaScript basics (variables, conditions, loops, functions, objects)
+
+Advanced JavaScript (closures, context, classes, promises)
+
+TypeScript (types, interfaces, generics, OOP)
+
+Code quality tools (ESLint, Prettier, Husky)
+
+UI testing with Playwright
+
+Page Object Model
+
+API testing and mocking
+
+Integration and end-to-end testing
+
+CI/CD and Docker
+
+WebdriverIO with Mocha and Cucumber
+
+Resume and LinkedIn profile preparation
