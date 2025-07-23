@@ -1,1 +1,7 @@
-Placeholder for initial bug report.
+Bug: Cannot submit form
+Steps to reproduce:
+1. Open the form page
+2. Fill in all fields
+3. Click "Submit"
+Expected: Confirmation message
+Actual: Page reloads with no message
